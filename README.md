@@ -1,1 +1,1 @@
-# full-python
+# python project
